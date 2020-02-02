@@ -1,0 +1,9 @@
+{
+  "id": "076991b4-0f28-4abd-8004-4b22386dab08",
+  "name": "sys.given-name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
