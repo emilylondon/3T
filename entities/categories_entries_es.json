@@ -1,0 +1,45 @@
+[
+  {
+    "value": "cosa",
+    "synonyms": [
+      "cosa"
+    ]
+  },
+  {
+    "value": "animal",
+    "synonyms": [
+      "animal",
+      "perro",
+      "gato",
+      "gata",
+      "león",
+      "osa",
+      "oso",
+      "tigre",
+      "loba",
+      "vaca",
+      "pollo"
+    ]
+  },
+  {
+    "value": "comida",
+    "synonyms": [
+      "comida",
+      "arroz",
+      "chocolate",
+      "sopa"
+    ]
+  },
+  {
+    "value": "acción",
+    "synonyms": [
+      "acción"
+    ]
+  },
+  {
+    "value": "lugar",
+    "synonyms": [
+      "lugar"
+    ]
+  }
+]

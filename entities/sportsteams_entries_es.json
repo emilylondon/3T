@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Los Angeles Lakers",
+    "synonyms": [
+      "Los Angeles Lakers",
+      "Lakers",
+      "los Lakers"
+    ]
+  },
+  {
+    "value": "Kansas City Chiefs",
+    "synonyms": [
+      "Kansas City Chiefs",
+      "Chiefs",
+      "Patriots",
+      "New England Patriots",
+      "New York Jets",
+      "Miami Dolphins"
+    ]
+  },
+  {
+    "value": "Real Madrid",
+    "synonyms": [
+      "Real Madrid",
+      "FC Barcelona"
+    ]
+  },
+  {
+    "value": "New York Mets",
+    "synonyms": [
+      "New York Mets",
+      "Nationals",
+      "LA Dodgers"
+    ]
+  }
+]

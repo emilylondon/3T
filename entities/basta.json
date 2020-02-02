@@ -1,0 +1,9 @@
+{
+  "id": "4977a523-42b6-4891-9ed5-f2eca86baf1b",
+  "name": "basta",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

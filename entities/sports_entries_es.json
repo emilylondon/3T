@@ -1,0 +1,50 @@
+[
+  {
+    "value": "tenis",
+    "synonyms": [
+      "tenis"
+    ]
+  },
+  {
+    "value": "béisbol",
+    "synonyms": [
+      "béisbol"
+    ]
+  },
+  {
+    "value": "fútbol",
+    "synonyms": [
+      "fútbol"
+    ]
+  },
+  {
+    "value": "gimnasia",
+    "synonyms": [
+      "gimnasia"
+    ]
+  },
+  {
+    "value": "hockey",
+    "synonyms": [
+      "hockey"
+    ]
+  },
+  {
+    "value": "vóleibol",
+    "synonyms": [
+      "vóleibol"
+    ]
+  },
+  {
+    "value": "corriendo",
+    "synonyms": [
+      "corriendo"
+    ]
+  },
+  {
+    "value": "baloncesto",
+    "synonyms": [
+      "baloncesto"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "pajaro",
+    "synonyms": [
+      "pajaro"
+    ]
+  },
+  {
+    "value": "perro",
+    "synonyms": [
+      "perro"
+    ]
+  },
+  {
+    "value": "serpiente",
+    "synonyms": [
+      "serpiente"
+    ]
+  },
+  {
+    "value": "gato",
+    "synonyms": [
+      "gato"
+    ]
+  },
+  {
+    "value": "hamster",
+    "synonyms": [
+      "hamster"
+    ]
+  }
+]
