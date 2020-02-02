@@ -1,0 +1,115 @@
+[
+  {
+    "id": "604372d6-928b-45a9-99b1-a50f787c6780",
+    "data": [
+      {
+        "text": "me gusta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d0351f3-7a48-406b-9ec2-ae031481c945",
+    "data": [
+      {
+        "text": "bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "996b3e21-de1e-4de7-8285-75970202103d",
+    "data": [
+      {
+        "text": "Yo fuí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b94c8a38-7daf-40a6-9f3c-748001283bc5",
+    "data": [
+      {
+        "text": "comí",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ec72206-141b-4272-b4ef-133182fef986",
+    "data": [
+      {
+        "text": "yo tenía",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80ae534a-c7a3-4210-b5c4-86f806e7980f",
+    "data": [
+      {
+        "text": "yo hice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce61a8f1-4a19-426b-bedf-15209c39e880",
+    "data": [
+      {
+        "text": "bueno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbe735c4-62b2-43b0-bc8a-20301cf1e22c",
+    "data": [
+      {
+        "text": "buena",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea870860-1c6a-4744-b592-497ddd655e24",
+    "data": [
+      {
+        "text": "me gustó",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

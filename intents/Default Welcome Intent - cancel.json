@@ -1,0 +1,45 @@
+{
+  "id": "9fa69b03-e080-4efe-be47-5925a471af36",
+  "parentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "Default Welcome Intent - cancel",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Bien, hasta luego.",
+            "Adiós"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

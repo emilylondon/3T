@@ -1,0 +1,86 @@
+[
+  {
+    "id": "026c687c-873b-4187-a099-6ffa0aca631f",
+    "data": [
+      {
+        "text": "caballo",
+        "alias": "mascota",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a20dde2-1fe1-4ada-a5ba-8e742a2a3e99",
+    "data": [
+      {
+        "text": "iguana",
+        "alias": "mascota",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90b0309a-f197-463a-b54d-ef06a088d84c",
+    "data": [
+      {
+        "text": "serpiente",
+        "alias": "mascota",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf215437-761b-4949-86f4-01a92e8e4f44",
+    "data": [
+      {
+        "text": "hámster",
+        "alias": "mascota",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8212f12f-5516-4df5-8aa8-f76b41b9c9b1",
+    "data": [
+      {
+        "text": "perro",
+        "alias": "mascota",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c43268e8-4632-417b-ac55-1babc34f4c13",
+    "data": [
+      {
+        "text": "pajaro",
+        "alias": "mascota",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

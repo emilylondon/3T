@@ -1,0 +1,49 @@
+[
+  {
+    "id": "d5388089-e758-4fca-8c47-95b3e7d8edf6",
+    "data": [
+      {
+        "text": "Quiero hablar de ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b27f1d2e-f2b5-4600-8f32-f79e63a1cb9b",
+    "data": [
+      {
+        "text": "Vamos a hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "musica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fba2749-5bc7-4320-9496-7bb6b4b3cf25",
+    "data": [
+      {
+        "text": "música",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

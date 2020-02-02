@@ -1,0 +1,120 @@
+[
+  {
+    "id": "fbb0f9bc-2e9c-419d-ab15-83b47f21ab9e",
+    "data": [
+      {
+        "text": "lo que hice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d7623d7-abcf-474c-9d80-89d9f523dd1f",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " día",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78a1b90e-25f5-4857-93f1-3a803b0fb931",
+    "data": [
+      {
+        "text": "Me gustaria hablar de ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "702ec2c6-8d7f-465d-b7f1-91b188d910c5",
+    "data": [
+      {
+        "text": "Déjame decirte lo que hice ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "236fca47-a54a-480f-b386-a0e435caff88",
+    "data": [
+      {
+        "text": "¿Podemos hablar de lo que pasó antes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "329de320-b164-4ba2-b229-a0400d3f7423",
+    "data": [
+      {
+        "text": "Hablemos de lo que hice ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f3711c1-b557-4ff9-af47-65a4ee95d512",
+    "data": [
+      {
+        "text": "Quiero hablar de ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

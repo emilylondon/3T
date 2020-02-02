@@ -1,0 +1,48 @@
+{
+  "id": "65f26200-02e7-4080-9704-f8362b47aa8d",
+  "parentId": "3b543ac8-e49b-4a59-8ed1-e69806a831b8",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "sports",
+  "auto": true,
+  "contexts": [
+    "theirinterests-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes.wouldyouliketotalk-yes-custom.theirinterests-custom",
+      "affectedContexts": [
+        {
+          "name": "sports-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Qué deporte te gusta jugar?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Eso es genial, ¿Quieres contarme más?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

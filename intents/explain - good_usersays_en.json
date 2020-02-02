@@ -1,0 +1,87 @@
+[
+  {
+    "id": "08379022-ec60-4914-9b63-4d9dbe15563c",
+    "data": [
+      {
+        "text": "Yo fuí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e805c9-b952-4656-ae86-edfcd3fc939c",
+    "data": [
+      {
+        "text": "comí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed924527-9b55-4325-9f37-ea262284935f",
+    "data": [
+      {
+        "text": "yo hice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a1f2a4f-9bcc-4430-b180-c774853e4d78",
+    "data": [
+      {
+        "text": "yo tenía",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6ce32f4-de46-4c3e-bde4-cfc56c8924eb",
+    "data": [
+      {
+        "text": "bueno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3aa1fc29-1958-48bf-9648-220120f6c231",
+    "data": [
+      {
+        "text": "buena",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64f8fe0e-6b5c-426c-ab74-1851b2f17668",
+    "data": [
+      {
+        "text": "me gustó",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

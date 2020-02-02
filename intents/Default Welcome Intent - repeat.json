@@ -1,0 +1,48 @@
+{
+  "id": "2de7b8e4-c1e4-4b6d-9b7b-61f94b3efdd0",
+  "parentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "Default Welcome Intent - repeat",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-repeat",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Bueno. ¿Quieres jugar un juego?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

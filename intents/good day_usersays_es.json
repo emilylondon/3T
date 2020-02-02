@@ -1,0 +1,154 @@
+[
+  {
+    "id": "47cde990-e9fd-4a61-a530-1ce8cd1cfbee",
+    "data": [
+      {
+        "text": "Me divertí ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a73f284b-ed11-41a8-91e6-8924b90ba802",
+    "data": [
+      {
+        "text": "Hoy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pasé tiempo con mis amigos, fue ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " buen momento.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd688d9c-2600-4a64-873a-fd2174f27ee7",
+    "data": [
+      {
+        "text": "Vi a ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "familia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d757e182-bdac-47f7-800b-3496380d8821",
+    "data": [
+      {
+        "text": "Hoy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " fui a ",
+        "userDefined": false
+      },
+      {
+        "text": "la escuela",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "939ee458-de79-487d-8628-9746b0db2b93",
+    "data": [
+      {
+        "text": "Hice ",
+        "userDefined": false
+      },
+      {
+        "text": "cosas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " que disfruté ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1afe6ae9-6f49-4b4c-ab2a-f9c303f337e4",
+    "data": [
+      {
+        "text": "cosas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " buenas pasaron antes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8188aae4-756b-4bc9-acf9-bf3b278dcb20",
+    "data": [
+      {
+        "text": "me divertí mucho ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

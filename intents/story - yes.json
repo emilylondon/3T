@@ -1,0 +1,52 @@
+{
+  "id": "3417f9da-1ef2-4521-bea0-1cd29606c2de",
+  "parentId": "d6c5fc4c-dd9f-4a72-ada7-2deea3b36381",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "story - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-no-no-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-no.DefaultWelcomeIntent-no-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "Bueno. La araña diminuta subió por el caño de agua, bajó la lluvia y la lavó, salió el sol y secó toda la lluvia, y la araña diminuta subió por el caño. Adios.",
+            "Bueno. Baa baa oveja negra, ¿tienes lana? Sí señor, sí señor, tres bolsas llenas. Uno para el maestro y otro para la dama, uno para el niño que vive calle abajo. Baa baa oveja negra, ¿tienes lana? Sí señor, sí señor, tres bolsas llenas. Adios.",
+            "Bueno. Rema rema Rema tu bote\nSuavemente por la corriente\nAlegremente alegremente, alegremente, alegremente\nLa vida no es otra cosa que un sueño. Adios.",
+            "Bueno. Hickory dickory dock, el ratón corrió el reloj. El reloj dio la una, el ratón corrió hacia abajo. Muelle dickory nogal. Adios."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Bueno. La araña diminuta subió por el caño de agua, bajó la lluvia y la lavó, salió el sol y secó toda la lluvia, y la araña diminuta subió por el caño. Adios.",
+            "Bueno.\nBaa baa oveja negra, ¿tienes lana? Sí señor, sí señor, tres bolsas llenas. Uno para el maestro y otro para la dama, uno para el niño que vive calle abajo. Baa baa oveja negra, ¿tienes lana? Sí señor, sí señor, tres bolsas llenas. Adios.",
+            "Bueno. \nRema rema Rema tu bote\nSuavemente por la corriente\nAlegremente alegremente, alegremente, alegremente\nLa vida no es otra cosa que un sueño. Adios.",
+            "Bueno. Hickory dickory dock, el ratón corrió el reloj. El reloj dio la una, el ratón corrió hacia abajo. Muelle dickory nogal. Adios."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

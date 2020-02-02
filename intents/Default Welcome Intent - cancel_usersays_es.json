@@ -1,0 +1,122 @@
+[
+  {
+    "id": "0f16d66d-7166-4b0b-a027-44b1e285a18c",
+    "data": [
+      {
+        "text": "olvidar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1824f41c-ad1d-453f-961f-380249c45808",
+    "data": [
+      {
+        "text": "ignorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "535087a2-207f-4779-9d63-43e91821d2d5",
+    "data": [
+      {
+        "text": "prescindir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3f5ba18-0c90-4883-a8d4-56872f6a441d",
+    "data": [
+      {
+        "text": "anular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dfc4dcab-6566-490e-8e17-0a63766dbe58",
+    "data": [
+      {
+        "text": "cancelar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27ab960a-68bb-40ed-9ec4-3db41f80dc14",
+    "data": [
+      {
+        "text": "saltar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1380970d-6def-4a9c-9c00-3b20eb3c7ec4",
+    "data": [
+      {
+        "text": "parar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f2f267e-cd42-4b70-b29a-87e026280891",
+    "data": [
+      {
+        "text": "no hacer nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "301ca67c-fcf3-4a8b-b669-6f3e57082b8a",
+    "data": [
+      {
+        "text": "detener",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d5c52e7-6d43-43d2-a3e0-1f1c19397e8d",
+    "data": [
+      {
+        "text": "omitir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

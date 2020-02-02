@@ -1,0 +1,122 @@
+[
+  {
+    "id": "e130a550-c54f-4449-be9f-3597b8921b32",
+    "data": [
+      {
+        "text": "olvidar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56e7023d-7a05-46ea-82fa-9975e402c2e8",
+    "data": [
+      {
+        "text": "ignorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90758788-33d6-4e9b-8b3d-fb0e6c650cd0",
+    "data": [
+      {
+        "text": "prescindir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ece90c50-6003-493b-aa1d-9fc6734cabd3",
+    "data": [
+      {
+        "text": "anular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e28c1bc-c5eb-461f-bc05-9fa93fa3c508",
+    "data": [
+      {
+        "text": "cancelar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99e25f86-7784-41ee-82e2-a16253276c1a",
+    "data": [
+      {
+        "text": "saltar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f58ac06b-e564-4d37-bbb5-9b0b49370f87",
+    "data": [
+      {
+        "text": "parar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e1dd705-038c-468a-afbc-f70762e66bf8",
+    "data": [
+      {
+        "text": "no hacer nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de7c6bd6-fb97-4357-8536-e30b7272f880",
+    "data": [
+      {
+        "text": "detener",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e35e872a-ae98-458d-988c-15cf8c61f3e9",
+    "data": [
+      {
+        "text": "omitir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

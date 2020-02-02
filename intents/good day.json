@@ -1,0 +1,66 @@
+{
+  "id": "5148307a-2f5a-4e94-bdfb-841ce5ec42d6",
+  "parentId": "01d6743e-6a1c-4742-9fcd-446fbd59b86e",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "good day",
+  "auto": true,
+  "contexts": [
+    "theirday-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes.wouldyouliketotalk-yes-custom.theirday-custom",
+      "affectedContexts": [
+        {
+          "name": "theirfeelings-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "goodday-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "98e4892e-9a13-42ed-b9c5-cfa83db35bbf",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Cuéntame sobre eso"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Me alegra oír eso. ¿Cómo te sientes?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "f06e9e74-55f0-4bae-8421-1f5543e096a1",
+  "parentId": "65f26200-02e7-4080-9704-f8362b47aa8d",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "favoritesport",
+  "auto": true,
+  "contexts": [
+    "sports-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes.wouldyouliketotalk-yes-custom.theirinterests-custom.sports-custom",
+      "affectedContexts": [
+        {
+          "name": "favoritesport-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9d63dbbf-d69b-447a-b436-bd28bf855252",
+          "required": true,
+          "dataType": "@sports",
+          "name": "sports",
+          "value": "$sports",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Qué deporte te gusta jugar?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Cuál es tu equipo de $sports favorito?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

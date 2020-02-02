@@ -1,0 +1,48 @@
+{
+  "id": "7eddc542-f44b-4d52-aefe-00b30bef81b1",
+  "parentId": "b2457356-3c2f-4957-8b86-e6788a15ce11",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "instrument-no",
+  "auto": true,
+  "contexts": [
+    "sing-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes.wouldyouliketotalk-yes-custom.theirinterests-custom.music-no.sing-no-no",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-no-no-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Yo tampoco toco ningún instrumento. ¿Quieres escuchar una historia?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

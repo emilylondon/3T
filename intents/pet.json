@@ -1,0 +1,71 @@
+{
+  "id": "1e47bfec-1add-4c9a-8756-14eb269af477",
+  "name": "pet",
+  "auto": true,
+  "contexts": [
+    "favoritecolor-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "mascota",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aca20083-7cac-4f34-ab62-12e400cfafeb",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "mascota",
+          "value": "$mascota",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2419652f-1e99-4655-ac87-0adc5ed42425",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Que tipo de mascota tienes"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Amo a ese animal"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Testing for Julia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

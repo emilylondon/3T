@@ -1,0 +1,50 @@
+[
+  {
+    "id": "93c3b41a-99bd-4a18-b850-2d562acfa221",
+    "data": [
+      {
+        "text": "Me gusto mi dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96b913c5-f0a9-4662-9b73-44e76ee537a3",
+    "data": [
+      {
+        "text": "bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e769d6b8-c637-4d5b-8fde-7df6cf38d6ba",
+    "data": [
+      {
+        "text": "buena",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb080286-a29b-48ae-88bd-704454cb313e",
+    "data": [
+      {
+        "text": "Tuve un buen dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

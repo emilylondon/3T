@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1fb1a10d-6aec-4f57-beee-450fcd7297fc",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "73b043c0-42a3-46a7-a56f-191327f9ce87",
+    "data": [
+      {
+        "text": "okay I will",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "a1e213ae-727b-4314-a37a-1e7a17ae2668",
+    "data": [
+      {
+        "text": "why not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3b31147-17cf-4388-8138-b064721ef3da",
+    "data": [
+      {
+        "text": "yes that\u0027s alright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c09b1777-f83a-43e4-8967-52fc1ca4595a",
+    "data": [
+      {
+        "text": "yes I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1577208b-51f7-4617-a9ce-99d627bbcabd",
+    "data": [
+      {
+        "text": "exactly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "de16cca6-a59d-46b1-9e4c-eb96efb3f6d0",
+    "data": [
+      {
+        "text": "of course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23524ab1-5b80-440e-9f2a-6bf933bc147f",
+    "data": [
+      {
+        "text": "yep that\u0027s ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc4339b5-5754-4a11-993e-cd1c51b663f8",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a9c26112-4b01-463f-816b-33de1bb0ef77",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c492dd69-da30-4e6c-84a4-7baea09987a7",
+    "data": [
+      {
+        "text": "for sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b4e53a5-998c-4f20-9823-d2965b9ecc8d",
+    "data": [
+      {
+        "text": "sg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39794cd1-dbf4-429a-99dd-5f374b600c81",
+    "data": [
+      {
+        "text": "yes that\u0027t ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4307a89d-00ff-4157-a3a3-62c510f3255a",
+    "data": [
+      {
+        "text": "I agree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "44469ee0-943b-4280-bd44-83f311276176",
+    "data": [
+      {
+        "text": "yes you can do it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d3467c7-9ba4-4685-86d2-c32ad17a1082",
+    "data": [
+      {
+        "text": "I don\u0027t mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "f8186444-1a0a-4f26-969e-3e4f8cb1a870",
+    "data": [
+      {
+        "text": "that one works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59db741c-013b-486d-9608-24780a6fdb66",
+    "data": [
+      {
+        "text": "that works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5fca9af-5d9f-49c4-a141-997da4943821",
+    "data": [
+      {
+        "text": "sure why not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38fb592c-a1dc-4e4a-8cdb-c99ceba7e656",
+    "data": [
+      {
+        "text": "perfect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db544efb-9626-468e-a6cf-5ea8dc592220",
+    "data": [
+      {
+        "text": "yep that\u0027s right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7db3d198-b0b0-4fbd-b34a-3277cb322f09",
+    "data": [
+      {
+        "text": "I think so",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebc843db-a0bf-44fb-8ea5-91642dbe0182",
+    "data": [
+      {
+        "text": "yes I agree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e30a698d-6f40-4649-9518-45678dc19785",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "127ba644-2b36-47ad-b3c9-f12666a1b04c",
+    "data": [
+      {
+        "text": "sounds correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eab5ca76-5c1a-4109-bee6-aad98b42ff57",
+    "data": [
+      {
+        "text": "sounds good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de15f66e-47d7-4964-a05b-5bfe13d815c8",
+    "data": [
+      {
+        "text": "that\u0027s correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b204291-a8b2-45bd-b010-808aae9d6430",
+    "data": [
+      {
+        "text": "go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3a632c74-2e20-4f2f-9edb-876aaaa37844",
+    "data": [
+      {
+        "text": "do it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "61906356-4c54-482c-9ceb-51ea99753e60",
+    "data": [
+      {
+        "text": "it\u0027s fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13287c0c-0cf7-460a-99a0-ce56c6f691bb",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "036906a5-b0fa-42a5-a284-ac6656240888",
+    "data": [
+      {
+        "text": "yes please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51be209b-1e4d-435e-8583-7441e6d32d8f",
+    "data": [
+      {
+        "text": "it\u0027s okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e08d628-9d4f-46ea-b0da-e69c2659f3f4",
+    "data": [
+      {
+        "text": "alright why not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "283e70ad-a88c-44b9-a4e9-5f308f4004b9",
+    "data": [
+      {
+        "text": "alright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f97e4fce-a7cc-4054-b34e-e955022b617d",
+    "data": [
+      {
+        "text": "right",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f97f3024-f099-44a6-940f-d7114dbffe86",
+    "data": [
+      {
+        "text": "it looks perfect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ea14a6e-44d6-48bf-9936-779a72515176",
+    "data": [
+      {
+        "text": "yes I can",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b3433cd-1ba1-44cc-aa15-5cb28e27be8d",
+    "data": [
+      {
+        "text": "yup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85defc12-ef8e-4ee7-906c-6b1514fcf9cf",
+    "data": [
+      {
+        "text": "yep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f85db692-03d7-40c5-ab92-c6af12bebf82",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9e483926-a7b5-42e0-93d8-7da546392c65",
+    "data": [
+      {
+        "text": "absolutely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "3d98db77-16c0-47d1-a923-82753c578e3a",
+    "data": [
+      {
+        "text": "Seguro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccbfdda8-d88d-4608-98d2-df61da506d06",
+    "data": [
+      {
+        "text": "si, me gustaria eso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d97548d8-be41-4cec-9bad-5fad3cff7c1a",
+    "data": [
+      {
+        "text": "sí por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69174bed-a323-460c-bb7d-5d6ffad7199b",
+    "data": [
+      {
+        "text": "sí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5db31d8c-6801-4b14-9ea3-0245e18c75ee",
+    "data": [
+      {
+        "text": "Bueno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

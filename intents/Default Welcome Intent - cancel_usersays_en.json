@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cdb2ac7c-f1be-41db-89ba-81d81883bcd9",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "f9a5aa45-1ce4-4b79-82d4-c2ad35a580da",
+    "data": [
+      {
+        "text": "stop it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b479baf-e2fe-462f-a26c-fe4f0cd5695e",
+    "data": [
+      {
+        "text": "never mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9a74aaa-74d5-49b0-9d4d-190f496043aa",
+    "data": [
+      {
+        "text": "just forget about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8d996f0b-055e-44e2-8889-412238ee5b4d",
+    "data": [
+      {
+        "text": "do nothing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49ec07b1-ef22-4e1b-9dc1-80b81ceb6718",
+    "data": [
+      {
+        "text": "skip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "7bbeb7cb-0a4a-45aa-befb-4b797afe8bf2",
+    "data": [
+      {
+        "text": "cancel that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "3778366a-248f-4042-87da-68308f1e96eb",
+    "data": [
+      {
+        "text": "forget that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "579ff2e1-88e7-4f84-8fb9-27cf70822642",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b3fdf13-6f48-4261-ae89-209879490f86",
+    "data": [
+      {
+        "text": "dismiss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "b793ef2d-48ae-4bbb-a8af-ed0af8f9718b",
+  "parentId": "3be1acc2-e87b-4400-ad8c-33b96fdd0480",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "day or interests",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes",
+      "affectedContexts": [
+        {
+          "name": "wouldyouliketotalk-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "dayorinterests-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "¡Excelente! ¿Qué te gustaría hablar?",
+            "Me alegra escucharlo. ¿Qué te gustaría hablar?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¡Excelente! ¿Te gustaría hablar sobre tu día o tus intereses?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

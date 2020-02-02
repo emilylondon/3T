@@ -1,0 +1,49 @@
+{
+  "id": "342d176f-4521-41ce-8329-98934a6bd528",
+  "parentId": "5148307a-2f5a-4e94-bdfb-841ce5ec42d6",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "explain - good",
+  "auto": true,
+  "contexts": [
+    "goodday-followup",
+    "theirfeelings-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes.wouldyouliketotalk-yes-custom.theirday-custom.goodday-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-no-no-followup-2",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Buena."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Buena."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

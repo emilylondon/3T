@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a0b3691a-7513-42f7-9dee-cddabd286b33",
+    "data": [
+      {
+        "text": "no tengo ",
+        "userDefined": false
+      },
+      {
+        "text": "mascotes",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5f0a8c9-e83f-47ee-942b-4957af8e0fda",
+    "data": [
+      {
+        "text": "pajaro",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95c0be4a-e43d-4c99-add2-fe1b51d9a852",
+    "data": [
+      {
+        "text": "perro",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24129765-6679-4952-bd5e-d8a2e48bcce9",
+    "data": [
+      {
+        "text": "gato",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

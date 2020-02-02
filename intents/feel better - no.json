@@ -1,0 +1,48 @@
+{
+  "id": "d2325d6b-be2b-444e-96cd-2abd23c84301",
+  "parentId": "96979cca-b358-4f32-aa17-f909e7758441",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "feel better - no",
+  "auto": true,
+  "contexts": [
+    "breathing-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes.wouldyouliketotalk-yes-custom.theirday-custom-2.badday-custom.explain-custom.breathing-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-no-no-followup-2",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

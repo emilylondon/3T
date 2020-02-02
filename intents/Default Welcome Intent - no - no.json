@@ -1,0 +1,48 @@
+{
+  "id": "d6c5fc4c-dd9f-4a72-ada7-2deea3b36381",
+  "parentId": "3be1acc2-e87b-4400-ad8c-33b96fdd0480",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "Default Welcome Intent - no - no",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-no",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-no-no-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Quieres escuchar una historia?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "¿Quieres escuchar una historia?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

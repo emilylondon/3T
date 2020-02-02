@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a9da2996-1455-4e8b-9ca4-31ac8f3baa9b",
+    "data": [
+      {
+        "text": "Intereses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1690a02d-1e83-4d88-a021-95e4e9a28b50",
+    "data": [
+      {
+        "text": "¿Qué hay de los intereses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae1276b6-f03f-4300-96fa-5e7b07da6d84",
+    "data": [
+      {
+        "text": "Quiero discutir intereses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "132b74a6-6528-4fe5-bacc-ca9e9022d37b",
+    "data": [
+      {
+        "text": "Hablemos de intereses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

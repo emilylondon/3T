@@ -1,0 +1,64 @@
+[
+  {
+    "id": "a42ee4e8-89d8-4343-8e16-68e8c885905e",
+    "data": [
+      {
+        "text": "Bueno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b951c9ad-46fc-403e-afdb-1e72cb2568ec",
+    "data": [
+      {
+        "text": "sí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f42a23f8-b0fe-43f2-bbd3-83410c0b5073",
+    "data": [
+      {
+        "text": "sí por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "966d595d-e5ba-4678-aff9-2be5d2d86a8c",
+    "data": [
+      {
+        "text": "si, me gustaria eso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e13f77ba-8f9b-4a83-b406-8cc499ed1ddf",
+    "data": [
+      {
+        "text": "Seguro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

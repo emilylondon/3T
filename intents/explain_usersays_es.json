@@ -1,0 +1,62 @@
+[
+  {
+    "id": "69f0a8fd-1064-40aa-8fe9-ee82e25ff0eb",
+    "data": [
+      {
+        "text": "Estoy estresado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f886c99b-b7e7-4e53-a3da-67b793d72c30",
+    "data": [
+      {
+        "text": "estoy asustado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9aea811a-442a-4329-94c8-7a7127178938",
+    "data": [
+      {
+        "text": "fue dificil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a767393b-4e91-49e1-abdd-b9a6c3cfdb77",
+    "data": [
+      {
+        "text": "alguien fue malo conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45312b1e-815a-43b1-a17e-470ee7d72ee8",
+    "data": [
+      {
+        "text": "Extraño a mis Padres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

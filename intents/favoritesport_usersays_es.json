@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a49f6ad8-4466-44fa-8761-1eac111dfb57",
+    "data": [
+      {
+        "text": "baloncesto",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdf4f5a4-6ce3-414d-8cfd-2e102f1e082a",
+    "data": [
+      {
+        "text": "gimnasia",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cd35179-7910-4344-b86c-f5dc5ff71bed",
+    "data": [
+      {
+        "text": "me gusta ",
+        "userDefined": false
+      },
+      {
+        "text": "nadar",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c5a71fc-0ee7-4e2a-835b-73cc4aee45fc",
+    "data": [
+      {
+        "text": "vóleibol",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "962e8b58-502d-4b6d-9f3a-4f5ed8206752",
+    "data": [
+      {
+        "text": "amo el ",
+        "userDefined": false
+      },
+      {
+        "text": "hockey",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fd409e5-fbea-40df-8797-2c665c66e66d",
+    "data": [
+      {
+        "text": "me gusta ",
+        "userDefined": false
+      },
+      {
+        "text": "fútbol",
+        "alias": "sports",
+        "meta": "@sports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

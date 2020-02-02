@@ -1,0 +1,101 @@
+[
+  {
+    "id": "0779f944-0926-4d54-81b9-86ca076d8881",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "negro es mi color",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "favorito",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "175f65c1-5cf4-4bb7-a98f-430819ec99c8",
+    "data": [
+      {
+        "text": "mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " color ",
+        "userDefined": false
+      },
+      {
+        "text": "favorito",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " al ",
+        "userDefined": false
+      },
+      {
+        "text": "amarillo",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "759bb0ff-9d95-463f-bac4-d27a1901e9f8",
+    "data": [
+      {
+        "text": "me gusta ",
+        "userDefined": false
+      },
+      {
+        "text": "azul",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da357305-1b41-472f-ae41-ed3fd10eb74f",
+    "data": [
+      {
+        "text": "verde",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

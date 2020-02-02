@@ -1,0 +1,88 @@
+[
+  {
+    "id": "77d0c574-1a25-4847-81f6-adf2cb20c120",
+    "data": [
+      {
+        "text": "my favorite color is ",
+        "userDefined": false
+      },
+      {
+        "text": "green",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "598ec22f-10e1-4121-9a49-de32f5214432",
+    "data": [
+      {
+        "text": "Pink",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6c03ec7-67b1-44c7-b084-4a44af39a877",
+    "data": [
+      {
+        "text": "i love ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df181c5d-6d1e-46dc-94a0-5b68b587220f",
+    "data": [
+      {
+        "text": "black",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " is my favorite color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "597f74aa-48f1-4839-bbd9-c045d32bbb7c",
+    "data": [
+      {
+        "text": "purple",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " is my favorite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

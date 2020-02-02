@@ -1,0 +1,39 @@
+[
+  {
+    "id": "f8d2b2b7-fa16-41cd-9e0e-615ab5f88b20",
+    "data": [
+      {
+        "text": "sí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3335d62-02cf-4390-823b-32bc5b776de1",
+    "data": [
+      {
+        "text": "si, gracias",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f64817bb-3ae6-4816-8fd8-96a02c0c08da",
+    "data": [
+      {
+        "text": "Me siento mejor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "04b4c9d4-a4a5-4dfd-b981-058c8bcf2e3a",
+  "parentId": "01d6743e-6a1c-4742-9fcd-446fbd59b86e",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "bad day.",
+  "auto": true,
+  "contexts": [
+    "theirday-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes.wouldyouliketotalk-yes-custom.theirday-custom-2",
+      "affectedContexts": [
+        {
+          "name": "theirfeelings-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "badday-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Siento escuchar eso. ¿Cómo te hace sentir eso?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Cuéntame sobre eso"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

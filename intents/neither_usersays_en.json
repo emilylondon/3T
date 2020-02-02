@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d3a5ded6-7d8d-4478-ae87-7e44f3042205",
+    "data": [
+      {
+        "text": "No quiero hablar de esos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e29ce2e4-ab39-4fee-8c68-2536dbf556b5",
+    "data": [
+      {
+        "text": "ninguno de esos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73f72206-384c-4252-a2db-215309450d0c",
+    "data": [
+      {
+        "text": "ninguno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "624f8632-c5f0-42a3-8113-86bb819de02b",
+    "data": [
+      {
+        "text": "ninguna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

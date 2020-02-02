@@ -1,0 +1,96 @@
+[
+  {
+    "id": "47776966-91b7-4dc8-a770-b43df20d4cc4",
+    "data": [
+      {
+        "text": "Hablemos de tiempos pasados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c240a3f9-3d32-4f07-823e-a330c715fe8c",
+    "data": [
+      {
+        "text": "Deberíamos hablar de instrumentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a86bdf4a-2a4c-4c27-9346-b257bf69f412",
+    "data": [
+      {
+        "text": "Hablemos de musica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05a00d2e-ec0c-4d66-b780-2ba243befe63",
+    "data": [
+      {
+        "text": "¿Qué tal el ",
+        "userDefined": false
+      },
+      {
+        "text": "baile",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "079bb73d-8a48-4f65-86c2-cc1c27b0ac66",
+    "data": [
+      {
+        "text": "Hablemos de mis intereses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f92d7d48-5c91-42d8-bf10-ccc60213cde5",
+    "data": [
+      {
+        "text": "Hablemos de deportes.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04f8ff15-7c2a-44b6-816f-25b606459926",
+    "data": [
+      {
+        "text": "Me gustaria hablar de mis intereses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

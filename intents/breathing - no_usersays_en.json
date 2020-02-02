@@ -1,0 +1,50 @@
+[
+  {
+    "id": "918c9a8d-3e8c-4b2b-af9f-f0ec3760c27b",
+    "data": [
+      {
+        "text": "No me gustaria eso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "204569a1-dc18-4b2f-ada5-0b8d5142671c",
+    "data": [
+      {
+        "text": "no, eso está bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca3dc5b3-b9af-430d-b757-657d8b46e13e",
+    "data": [
+      {
+        "text": "No gracias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bbd067c-4b2d-4b72-a9f8-b1f7b87f9bf1",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

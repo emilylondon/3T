@@ -1,0 +1,156 @@
+[
+  {
+    "id": "d8ad4916-ecb5-4a4e-95d0-ae4d555a2dfa",
+    "data": [
+      {
+        "text": "long",
+        "alias": "adjective2",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7c2de27-4dcb-4174-86a8-24b870cbe9da",
+    "data": [
+      {
+        "text": "pants",
+        "alias": "noun3",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "136296a1-da64-4f86-a877-3258c27630ac",
+    "data": [
+      {
+        "text": "Carlos",
+        "alias": "name2",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a119d95-6d0e-4ab3-8f77-9e82192ad450",
+    "data": [
+      {
+        "text": "chair",
+        "alias": "noun2",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7883e687-8feb-404a-911f-2169a1fb9ad1",
+    "data": [
+      {
+        "text": "Julia",
+        "alias": "name1",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8294af5-4a55-4451-90ca-3f363738d200",
+    "data": [
+      {
+        "text": "cats",
+        "alias": "pluralnoun2",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6597c3ad-1dcf-4a7e-a49c-cf8c3ad21bd8",
+    "data": [
+      {
+        "text": "dogs",
+        "alias": "pluralnoun1",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0285b537-c408-49d3-814f-ebbeb21efea5",
+    "data": [
+      {
+        "text": "Firefighter",
+        "alias": "job",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b182ae9d-f277-484f-994f-6061bc9d68e5",
+    "data": [
+      {
+        "text": "shiny",
+        "alias": "adjective1",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fb5a135-096f-41f2-b20d-3c4f32ca2b65",
+    "data": [
+      {
+        "text": "Honda",
+        "alias": "car",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ee56413-1d39-4431-a0aa-789c800ac254",
+    "data": [
+      {
+        "text": "Jason",
+        "alias": "malename",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

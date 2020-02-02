@@ -1,0 +1,66 @@
+{
+  "id": "b7d3cccf-cbcc-485a-99ef-51432a135904",
+  "name": "favorite color",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "favoritecolor-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ae1c38a2-2be7-4d46-9dfe-673256e3ad54",
+          "required": true,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your favorite color?"
+            },
+            {
+              "lang": "es",
+              "value": "Cual es tu color favorito?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "También me gusta ese color"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

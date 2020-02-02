@@ -1,0 +1,49 @@
+{
+  "id": "b8fbede3-9519-4f7b-b274-aaa49066bfe8",
+  "parentId": "04b4c9d4-a4a5-4dfd-b981-058c8bcf2e3a",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "explain",
+  "auto": true,
+  "contexts": [
+    "theirfeelings-followup",
+    "badday-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-yes.wouldyouliketotalk-yes-custom.theirday-custom-2.badday-custom",
+      "affectedContexts": [
+        {
+          "name": "explain-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Quieres respirar con migo? Podría ser relajante"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "¿Quieres respirar con migo? Podría ser relajante"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

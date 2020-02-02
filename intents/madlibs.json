@@ -1,0 +1,301 @@
+{
+  "id": "31f909d8-8168-40d5-8d2e-e0a15b675b6a",
+  "name": "madlibs",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "madlibs",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56914609-ab92-4fc4-9204-3f6be65f0c83",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "malename",
+          "value": "$malename",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "ingrese un nombre masculino"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e32aee18-0e54-42bf-bdfe-1d7bd426bdaf",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name1",
+          "value": "$name1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingresa un nombre"
+            },
+            {
+              "lang": "es",
+              "value": "ingresa un nombre"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7b24f186-d7fc-4ab7-a06e-e1cfdc20ef27",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "pluralnoun1",
+          "value": "$pluralnoun1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un sustantivo plural"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un sustantivo plural"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "27d87b4e-d0a0-43fa-a9ab-927b1d00f363",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "pluralnoun2",
+          "value": "$pluralnoun2",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un sustantivo plural"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un sustantivo plural"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "709be722-4638-4390-8928-db47cfc235c7",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "car",
+          "value": "$car",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un auto"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un carro"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b9daa2bd-33af-4343-86fe-b92fe2bbb404",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "adjective1",
+          "value": "$adjective1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un adjetivo"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un adjetivo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7203d3cc-cb43-4235-a993-515527b52e30",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "noun2",
+          "value": "$noun2",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un sustantivo"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un sustantivo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b4fe4786-dc7b-4762-9917-076aa40f7ccb",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "job",
+          "value": "$job",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un trabajo"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un trabajo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "15f8990a-b632-4084-970d-7c1833ae887e",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name2",
+          "value": "$name2",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingresa un nombre"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un nombre"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "585b08e5-3ddb-4886-a711-ae3d87339fc9",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "noun3",
+          "value": "$noun3",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un sustantivo"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un sustantivo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "828aaf15-7b57-4565-90e9-89aab633d8eb",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "adjective2",
+          "value": "$adjective2",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un adjetivo"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un adjetivo"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "68d3dc6b-d3b8-444e-a882-c9b82884a06c",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "place1",
+          "value": "$place1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "ingrese un lugar"
+            },
+            {
+              "lang": "es",
+              "value": "ingrese un lugar"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "$malename y $name1 decidieron viajar a $place1. Recogieron sus $pluralnoun1 y $pluralnoun2 y los pusieron en su $car $adjective1. Una hora después su $noun2 explotó. Estaban atascados. Por suerte, $job que se llama $name2 pasó por donde ellos estaban. Los ayudó a arreglar su vehículo y les dio $noun3 $adjective2 para ayudarlos. Por fin llegaron a su destino y se divirtieron mucho."
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "$malename y $name1 decidieron viajar a $place1. Recogieron sus $pluralnoun1 y $pluralnoun2 y los pusieron en su $car $adjective1. Una hora después su $noun2 explotó. Estaban atascados. Por suerte, $job que se llama $name2 pasó por donde ellos estaban. Los ayudó a arreglar su vehículo y les dio $noun3 $adjective2 para ayudarlos. Por fin llegaron a su destino y se divirtieron mucho."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

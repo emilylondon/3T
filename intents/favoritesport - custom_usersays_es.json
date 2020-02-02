@@ -1,0 +1,98 @@
+[
+  {
+    "id": "78a7b6e6-93ff-4660-b0a8-a05737a148cf",
+    "data": [
+      {
+        "text": "Kansas City Chiefs",
+        "alias": "sportsteams",
+        "meta": "@sportsteams",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6138641b-2642-4f6d-ba21-bc8a438ad3b6",
+    "data": [
+      {
+        "text": "amo al ",
+        "userDefined": false
+      },
+      {
+        "text": "Real Madrid",
+        "alias": "sportsteams",
+        "meta": "@sportsteams",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8370a48-1527-4a07-98f0-a0e1de926ca1",
+    "data": [
+      {
+        "text": "Soy fan de los ",
+        "userDefined": false
+      },
+      {
+        "text": "patriotas",
+        "alias": "sportsteams",
+        "meta": "@sportsteams",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14c0c035-5be0-4600-a409-737309e6b14a",
+    "data": [
+      {
+        "text": "Los bulldogs",
+        "alias": "sportsteams",
+        "meta": "@sportsteams",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9cb00b1-d25c-44e9-b5bf-7e602cae3770",
+    "data": [
+      {
+        "text": "FC Barcelona",
+        "alias": "sportsteams",
+        "meta": "@sportsteams",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08b31a3b-8ab5-4ccd-91f1-8d83d614c947",
+    "data": [
+      {
+        "text": "Me gustan ",
+        "userDefined": false
+      },
+      {
+        "text": "los lakers",
+        "alias": "sportsteams",
+        "meta": "@sportsteams",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

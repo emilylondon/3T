@@ -1,0 +1,75 @@
+[
+  {
+    "id": "bf244c2e-b0c1-442a-92f5-c7178e28f26e",
+    "data": [
+      {
+        "text": "fue un dia muy malo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2b96ff8-fcc1-4909-95fb-2ade986d90e3",
+    "data": [
+      {
+        "text": "no fue un buen dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e57e8ddd-637b-493c-a07a-e493b1da6051",
+    "data": [
+      {
+        "text": "Hoy estuvo mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "559cf1e8-5092-4fa1-a35b-23534cad8a02",
+    "data": [
+      {
+        "text": "Fue un mal dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adc7746e-4820-41be-8c40-363b2814cbd0",
+    "data": [
+      {
+        "text": "estuvo mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebed50cf-b7f4-474d-a6ec-e72ed4784376",
+    "data": [
+      {
+        "text": "mal",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

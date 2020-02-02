@@ -1,0 +1,156 @@
+[
+  {
+    "id": "dc20044f-7a89-4f67-93ba-e0b01f6cf30d",
+    "data": [
+      {
+        "text": "gordo",
+        "alias": "adjective2",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf3e05b1-f84c-4e38-bea7-1d152c150dd9",
+    "data": [
+      {
+        "text": "zapato",
+        "alias": "noun3",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29b36964-ad28-408e-97aa-3ff0dc097fb3",
+    "data": [
+      {
+        "text": "paleta",
+        "alias": "noun2",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0540f767-da70-43f5-a2d6-2af923996040",
+    "data": [
+      {
+        "text": "puertas",
+        "alias": "pluralnoun2",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae0ace1b-960d-45d2-99e2-6b4173f6c357",
+    "data": [
+      {
+        "text": "Emily",
+        "alias": "name1",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e879b91-3f95-41a6-94ad-1ff602be5ca0",
+    "data": [
+      {
+        "text": "brillante",
+        "alias": "adjective1",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd440f98-775a-4fde-89d7-5880e0eaab62",
+    "data": [
+      {
+        "text": "sillas",
+        "alias": "pluralnoun1",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46c0426a-df66-4ef6-90f9-62845ae5674d",
+    "data": [
+      {
+        "text": "Julia",
+        "alias": "name2",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bff6debb-3ea2-4c28-99ed-714acf4f3a47",
+    "data": [
+      {
+        "text": "policia",
+        "alias": "job",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce2834e1-9261-4f50-908d-250cad6acc66",
+    "data": [
+      {
+        "text": "Honda",
+        "alias": "car",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13483e48-d9a3-47d9-990b-dbb15bb41f27",
+    "data": [
+      {
+        "text": "Jesus",
+        "alias": "malename",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

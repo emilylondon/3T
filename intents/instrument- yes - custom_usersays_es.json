@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bb4c8d3d-bb2f-4007-8eb4-6786b52d7753",
+    "data": [
+      {
+        "text": "clarinete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8114119a-99e5-4d07-b88c-4559eae9cd0b",
+    "data": [
+      {
+        "text": "La tuba",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e3e88fe-38f8-4a3e-9596-204dbc66a3af",
+    "data": [
+      {
+        "text": "Toco ",
+        "userDefined": false
+      },
+      {
+        "text": "el piano",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26336ed6-e0fb-4f6a-a482-6a1781c66a1c",
+    "data": [
+      {
+        "text": "toco el violín",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

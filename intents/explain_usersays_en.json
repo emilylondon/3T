@@ -1,0 +1,155 @@
+[
+  {
+    "id": "3103cd32-e719-4f89-a6b7-80dc46993fc7",
+    "data": [
+      {
+        "text": "Echo de menos mi hogar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2617ea97-01fe-41f4-b8fc-f7aa8acfbe02",
+    "data": [
+      {
+        "text": "No se donde estoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "153c98c8-8082-4bf4-80ab-cc3b5b8200c7",
+    "data": [
+      {
+        "text": "estoy muy molesto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "845d6f9e-e95a-4be3-8e9f-d18b4c794905",
+    "data": [
+      {
+        "text": "No me trataron bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24627aca-1500-4ab4-b928-185a18ec3278",
+    "data": [
+      {
+        "text": "No me gusta como son las cosas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5764db69-d6eb-4958-bbca-50335c06bad1",
+    "data": [
+      {
+        "text": "No quiero hablar de ello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3154409-3caa-4cdc-a1fe-0ec0d827a330",
+    "data": [
+      {
+        "text": "Extraño a mis Padres",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d74c55ab-a9e3-44ea-90ac-7dec7a8f1243",
+    "data": [
+      {
+        "text": "alguien fue grosero conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86ca5ec5-418b-4bac-b98f-1aee25f03ef4",
+    "data": [
+      {
+        "text": "La gente era ",
+        "userDefined": false
+      },
+      {
+        "text": "mala",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " conmigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "364956f6-1184-4297-ab56-ea020524029e",
+    "data": [
+      {
+        "text": "estoy asustado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e591f327-34e2-4db3-8dbb-8568be0889c4",
+    "data": [
+      {
+        "text": "estoy muy cansado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "900b8e48-7341-487a-87d3-c1efde7d4da9",
+    "data": [
+      {
+        "text": "Ha sido un día estresante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

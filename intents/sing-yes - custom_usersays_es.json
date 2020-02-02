@@ -1,0 +1,117 @@
+[
+  {
+    "id": "73ba9d5e-e7da-47d9-858c-ab1d8bdc01f0",
+    "data": [
+      {
+        "text": "Bolsos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Clairo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3622a47d-115f-4795-b0f7-c00fa621c29d",
+    "data": [
+      {
+        "text": "Medusa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f6cb0bb-2d82-47d3-ac59-8239787e5f00",
+    "data": [
+      {
+        "text": "noche",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " silenciosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c185724-179b-47bd-87bd-dc813fa127d2",
+    "data": [
+      {
+        "text": "Gasolina",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d28af1ff-aaec-434a-a5a8-61633637f646",
+    "data": [
+      {
+        "text": "Me gusta la cancion Despacito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4336fb8-e0fe-4980-ba6b-2ea92dc9ef3c",
+    "data": [
+      {
+        "text": "Me gusta la cancion Blinding Lights de Weeknd",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51e2fb91-015e-4755-b6b8-7fb4404eed91",
+    "data": [
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " canción favorita ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Yummy de Justin Beiber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

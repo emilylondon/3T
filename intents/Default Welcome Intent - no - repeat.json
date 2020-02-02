@@ -1,0 +1,48 @@
+{
+  "id": "9f43bb3d-d52e-4cee-a5c7-a644e41dcff5",
+  "parentId": "3be1acc2-e87b-4400-ad8c-33b96fdd0480",
+  "rootParentId": "b36bd850-2c78-48fa-98a9-04d28e4148ee",
+  "name": "Default Welcome Intent - no - repeat",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no.DefaultWelcomeIntent-no-repeat",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-no-repeat-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Quieres hablar conmigo en su lugar?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
